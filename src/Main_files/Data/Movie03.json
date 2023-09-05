@@ -1,0 +1,404 @@
+{
+    "dates": {
+        "maximum": "2023-09-25",
+        "minimum": "2023-09-08"
+    },
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/nHf61UzkfFno5X1ofIhugCPus2R.jpg",
+            "genre_ids": [
+                35,
+                12,
+                14
+            ],
+            "id": 346698,
+            "original_language": "en",
+            "original_title": "Barbie",
+            "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+            "popularity": 1255.043,
+            "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+            "release_date": "2023-07-19",
+            "title": "Barbie",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 3572
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fQvHTPken2biD5cA6jR0M2SE6Qg.jpg",
+            "genre_ids": [
+                27,
+                14
+            ],
+            "id": 635910,
+            "original_language": "en",
+            "original_title": "The Last Voyage of the Demeter",
+            "overview": "The crew of the merchant ship Demeter attempts to survive the ocean voyage from Carpathia to London as they are stalked each night by a merciless presence onboard the ship.",
+            "popularity": 829.595,
+            "poster_path": "/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg",
+            "release_date": "2023-08-09",
+            "title": "The Last Voyage of the Demeter",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 246
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/waBWlJlMpyFb7STkFHfFvJKgwww.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 678512,
+            "original_language": "en",
+            "original_title": "Sound of Freedom",
+            "overview": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
+            "popularity": 825.798,
+            "poster_path": "/kSf9svfL2WrKeuK8W08xeR5lTn8.jpg",
+            "release_date": "2023-07-03",
+            "title": "Sound of Freedom",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 387
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 603692,
+            "original_language": "en",
+            "original_title": "John Wick: Chapter 4",
+            "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "popularity": 476.964,
+            "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+            "release_date": "2023-03-22",
+            "title": "John Wick: Chapter 4",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 4327
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nYDPmxvl0if5vHBBp7pDYGkTFc7.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 709631,
+            "original_language": "en",
+            "original_title": "Cobweb",
+            "overview": "Eight year old Peter is plagued by a mysterious, constant tapping from inside his bedroom wall—one that his parents insist is all in his imagination. As Peter's fear intensifies, he believes that his parents could be hiding a terrible, dangerous secret and questions their trust.",
+            "popularity": 484.797,
+            "poster_path": "/cGXFosYUHYjjdKrOmA0bbjvzhKz.jpg",
+            "release_date": "2023-07-19",
+            "title": "Cobweb",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 253
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lDCIQ1Qe7cRnhZ4ybQVVEbadMZ.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1008042,
+            "original_language": "en",
+            "original_title": "Talk to Me",
+            "overview": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+            "popularity": 435.408,
+            "poster_path": "/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+            "release_date": "2023-07-26",
+            "title": "Talk to Me",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 264
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jv4tiXAgaArMQo57jFMjvBEjmoa.jpg",
+            "genre_ids": [
+                28,
+                18,
+                12
+            ],
+            "id": 980489,
+            "original_language": "en",
+            "original_title": "Gran Turismo",
+            "overview": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
+            "popularity": 343.955,
+            "poster_path": "/ckW6FZqMFEKA9DonixjZSAPxJMo.jpg",
+            "release_date": "2023-08-09",
+            "title": "Gran Turismo",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 211
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ixZzr4PyM2TPs5fka3IJj058WYo.jpg",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "id": 565770,
+            "original_language": "en",
+            "original_title": "Blue Beetle",
+            "overview": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+            "popularity": 366.347,
+            "poster_path": "/lZ2sOCMCcGaPppaXj0Wiv0S7A08.jpg",
+            "release_date": "2023-08-16",
+            "title": "Blue Beetle",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 299
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iEFuHjqrE059SmflBva1JzDJutE.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                28,
+                14,
+                10749
+            ],
+            "id": 496450,
+            "original_language": "fr",
+            "original_title": "Miraculous - le film",
+            "overview": "A life of an ordinary Parisian teenager Marinette goes superhuman when she becomes Ladybug. Bestowed with magical powers of creation, Ladybug must unite with her opposite, Cat Noir, to save Paris as a new villain unleashes chaos unto the city.",
+            "popularity": 357.681,
+            "poster_path": "/bBON9XO9Ek0DjRwMBnJNCwC96Cd.jpg",
+            "release_date": "2023-07-05",
+            "title": "Miraculous: Ladybug & Cat Noir, The Movie",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 519
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8iUYdAdkfiIQFMrg2Kxe4gVbXdN.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 912908,
+            "original_language": "en",
+            "original_title": "Strays",
+            "overview": "When Reggie is abandoned on the mean city streets by his lowlife owner, Doug, Reggie is certain that his beloved owner would never leave him on purpose. But once Reggie falls in with a fast-talking, foul-mouthed stray who loves his freedom and believes that owners are for suckers, Reggie finally realizes he was in a toxic relationship and begins to see Doug for the heartless sleazeball that he is.",
+            "popularity": 286.817,
+            "poster_path": "/wDyIj84k4zpEMbhNbX4zaUW0Jkj.jpg",
+            "release_date": "2023-08-17",
+            "title": "Strays",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vT17lPUglrAzjEqMwjPpIDe49ty.jpg",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                14
+            ],
+            "id": 459003,
+            "original_language": "uk",
+            "original_title": "Мавка: Лісова пісня",
+            "overview": "Mavka — a Soul of the Forest and its Warden — faces an impossible choice between love and her duty as guardian to the Heart of the Forest, when she falls in love with a human — the talented young musician Lukas.",
+            "popularity": 281.354,
+            "poster_path": "/eeJjd9JU2Mdj9d7nWRFLWlrcExi.jpg",
+            "release_date": "2023-03-02",
+            "title": "Mavka: The Forest Song",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 346
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/53z2fXEKfnNg2uSOPss2unPBGX1.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 968051,
+            "original_language": "en",
+            "original_title": "The Nun II",
+            "overview": "Four years after the events at the Abbey of St. Carta, Sister Irene returns once again and comes face to face with the demonic force Valak, the Nun.",
+            "popularity": 277.443,
+            "poster_path": "/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
+            "release_date": "2023-09-05",
+            "title": "The Nun II",
+            "video": false,
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Cpg8hUn60PK9CW9d5SWf605Ah8.jpg",
+            "genre_ids": [
+                16,
+                35,
+                28
+            ],
+            "id": 614930,
+            "original_language": "en",
+            "original_title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+            "overview": "After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers through heroic acts. Their new friend April O'Neil helps them take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them.",
+            "popularity": 244.663,
+            "poster_path": "/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg",
+            "release_date": "2023-07-31",
+            "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 250
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ymDCdsobG8P4S3epFvT0CLDvEhP.jpg",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "id": 986070,
+            "original_language": "en",
+            "original_title": "The Wrath of Becky",
+            "overview": "Two years after she escaped a violent attack on her family, 16-year-old Becky attempts to rebuild her life in the care of an older woman -- a kindred spirit named Elena. However, when a violent group known as the Noble Men break into their home, attack them and take their beloved dog, Becky must return to her old ways to protect herself and her loved ones.",
+            "popularity": 118.862,
+            "poster_path": "/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg",
+            "release_date": "2023-05-26",
+            "title": "The Wrath of Becky",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jkKVLzLWjSvTnc84VzeljhSy6j8.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 820525,
+            "original_language": "en",
+            "original_title": "After Everything",
+            "overview": "Besieged by writer’s block and the crushing breakup with Tessa, Hardin travels to Portugal in search of a woman he wronged in the past – and to find himself. Hoping to win back Tessa, he realizes he needs to change his ways before he can make the ultimate commitment.",
+            "popularity": 106.671,
+            "poster_path": "/gZLGCibvFY4zmt8sWUZcbBTHRtk.jpg",
+            "release_date": "2023-09-13",
+            "title": "After Everything",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c6Splshb8lb2Q9OvUfhpqXl7uP0.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 717930,
+            "original_language": "en",
+            "original_title": "Kandahar",
+            "overview": "After his mission is exposed, an undercover CIA operative stuck deep in hostile territory in Afghanistan must fight his way out, alongside his Afghan translator, to an extraction point in Kandahar, all whilst avoiding elite enemy forces and foreign spies tasked with hunting them down.",
+            "popularity": 125.313,
+            "poster_path": "/lCanGgsqF4xD2WA5NF8PWeT3IXd.jpg",
+            "release_date": "2023-05-25",
+            "title": "Kandahar",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 406
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tUlUdP04nDWsy372myIHuA2qdNv.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "id": 762430,
+            "original_language": "en",
+            "original_title": "Retribution",
+            "overview": "When a mysterious caller puts a bomb under his car seat, Matt Turner begins a high-speed chase across the city to complete a specific series of tasks. With his kids trapped in the backseat and a bomb that will explode if they get out of the car, an everyday commute becomes a twisted game of life or death as Matt follows the stranger’s increasingly dangerous instructions in a race against time to save his family.",
+            "popularity": 107.378,
+            "poster_path": "/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",
+            "release_date": "2023-08-23",
+            "title": "Retribution",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/im2NoIquBckYtBaR296nW8sHqpl.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "id": 299054,
+            "original_language": "en",
+            "original_title": "Expend4bles",
+            "overview": "Armed with every weapon they can get their hands on and the skills to use them, The Expendables are the world’s last line of defense and the team that gets called when all other options are off the table. But new team members with new styles and tactics are going to give “new blood” a whole new meaning.",
+            "popularity": 73.497,
+            "poster_path": "/nbrqj9q8WubD3QkYm7n3GhjN7kE.jpg",
+            "release_date": "2023-09-15",
+            "title": "Expend4bles",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rron9HAuS9s7zBF8iCX1tsafxUo.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 666277,
+            "original_language": "en",
+            "original_title": "Past Lives",
+            "overview": "Two childhood friends are separated after one’s family emigrates from South Korea. Two decades later, they are reunited in New York for one week as they confront notions of destiny, love and the choices that make a life.",
+            "popularity": 74.009,
+            "poster_path": "/gXt3eVpaBq6q9SaLDrgSnzsUyIl.jpg",
+            "release_date": "2023-06-02",
+            "title": "Past Lives",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4wymdUnlUCwEylHZ5B6rEfAKUnw.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 951491,
+            "original_language": "en",
+            "original_title": "Saw X",
+            "overview": "Between the events of 'Saw' and 'Saw II', a sick and desperate John Kramer travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer – only to discover the entire operation is a scam to defraud the most vulnerable. Armed with a newfound purpose, the infamous serial killer returns to his work, turning the tables on the con artists in his signature visceral way through devious, deranged and ingenious traps.",
+            "popularity": 63.95,
+            "poster_path": "/9pn4g9FDivCyuT7OBdnNcCopGKY.jpg",
+            "release_date": "2023-09-25",
+            "title": "Saw X",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 23,
+    "total_results": 455
+}

@@ -1,0 +1,193 @@
+.containar {
+    max-width: 1250px;
+    min-width: 400px;
+    margin: 0 auto;
+}
+
+.navBarBox {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    padding: 5px 20px;
+}
+
+.searchInput {
+    font-size: 1rem;
+    padding: 0.25rem 0.75rem;
+    outline: none;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+    border: none;
+    width: 200px;
+    height: 40px;
+}
+
+.searchBtn {
+    height: 40px;
+    width: 40px;
+    border: none;
+    color: white;
+    background-color: #DD003F;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    cursor: pointer;
+}
+
+@media screen and (max-width:900px) {
+    .navBarBox {
+        flex-direction: column;
+    }
+
+    .searchBtn {
+        margin: 10px 0;
+    }
+}
+
+.SlideShowBox {
+    height: 400px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    margin: 20px 0;
+    overflow: hidden;
+    border-radius: 5px;
+    /* border: 1px solid #fff; */
+}
+
+.contentBox {
+    height: 100%;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    border-radius: 10px;
+}
+
+.contentText {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.SlideShowBoxIMG {
+    /* width: 100%; */
+    height: 100%;
+    position: absolute;
+}
+
+.SlideShowBoxIMG::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+
+.SlideBtns {
+    color: gray;
+    font-size: 2rem;
+    cursor: pointer;
+    width: 40px;
+    position: relative;
+    z-index: 2;
+
+    &:hover {
+        color: #fff;
+        font-size: 3rem;
+    }
+}
+
+.NavControlIcon {
+    position: absolute;
+    font-size: 1.5rem;
+    right: 15px;
+    top: 15px;
+    cursor: pointer;
+
+}
+
+.ArrowIcons {
+    background-color: #DD003F;
+    width: 40px;
+    font-size: 1.5rem;
+    margin: 0 10px;
+    font-weight: 900;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.ArrowIcons:hover {
+    background-color: #fff;
+    color: #DD003F;
+}
+
+.ViewMore {
+    cursor: pointer;
+    margin-right: 10px;
+    user-select: none;
+}
+
+.ViewMore:hover {
+    color: #DD003F;
+
+}
+
+.MovieCollege {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 10px 0;
+}
+
+.footerBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+}
+
+.footernote {
+    background-color: #2F322B;
+    text-align: center;
+}
+
+.DetailsBtn01 {
+    width: 50px;
+    height: 50px;
+    color: #DD003F;
+    border: 3px solid #DD003F;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.MovieDetailsBox{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.genresBtn{
+    background-color: #DD003F;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    margin: 5px 10px;
+    cursor: pointer;
+}
+.production_companie{
+    background-color: #0F2133;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    margin: 10px;
+
+}

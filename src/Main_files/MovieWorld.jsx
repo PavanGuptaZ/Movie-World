@@ -19,7 +19,7 @@ export const MovieWorld = () => {
                     <Route path="TopRating" element={<MovieWorldCategory category={"vote_average"} apiPath={"movie/top_rated"} />} />
                     <Route path="Upcoming" element={<MovieWorldCategory category={"release_date"} apiPath={"movie/upcoming"} />} />
                     <Route path="Movie/:id" element={<MovieWorldDetails />} />
-                    <Route path="Search" element={<MovieWorldSearch />} />
+                    <Route path="Search/:id" element={<MovieWorldSearch category={"release_date"}/>} />
                     <Route path="*" element={<PageNotFound />} />
                 </Routes>
             </main>

@@ -8,7 +8,7 @@ export const SearchBox = ({Adjust}) => {
     const navigator = useNavigate();
     const handleSearch = (e) => {
         e.preventDefault();
-        navigator("/Search");
+        navigator(`Search/${search}`);
         setSearch("");
     }
     const handleChange = (e) => {

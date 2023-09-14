@@ -1,8 +1,11 @@
 import React, { useEffect } from 'react';
 import { AiFillStar } from 'react-icons/ai'
 import styles from './Components.module.css';
+import { useNavigate } from 'react-router-dom';
 
 export const MovieSlideShowDisplay = ({ Movie }) => {
+    const navigator = useNavigate()
+
     useEffect(()=>{
         document.getElementById("Posterimg").style.setProperty("filter", "blur(0px)");
     },[Movie])
@@ -20,8 +23,12 @@ export const MovieSlideShowDisplay = ({ Movie }) => {
         display: "flex",
         alignItems: "center"
     }
+    const handleMovieId=(id)=>{
+        console.log(`movie/${id}`);
+        navigator(`/Movie/${id}`)
+    }
     return (
-        <div style={{ position: "relative", display: "flex", alignItems: "center", padding: "30px" , zIndex:"2" }}>
+        <div onClick={() => handleMovieId(Movie.id)} style={{ position: "relative", display: "flex", alignItems: "center", padding: "30px" , zIndex:"2",cursor:"pointer" }}>
             <div className={styles.contentText}>
                 <div style={style01}>{Movie?.title} <span style={style02}>{Movie?.release_date.substring(0, 4)}</span> </div>
                 <div style={style03}><AiFillStar style={{ color: "#F5B50A", marginRight: "10px" }} />{Movie?.vote_average}/10</div>

@@ -43,27 +43,26 @@ export const MovieKit = ({ moviesData, title, link, apiPath }) => {
         }
         element.style.setProperty('transform', `translateX(${newValue}px)`);
     }
-    const handleScroll = (event) => {
-        if (event.deltaY < 0) {
-            HandleArrows("left", link, Length)
-
-        } else if (event.deltaY > 0) {
-            HandleArrows("right", link, Length)
-        }
-    }
-    window.removeEventListener("wheel", preventWindowScroll);
-    function preventWindowScroll(event) {
-        event.preventDefault();
-    }
-    window.removeEventListener("wheel", preventWindowScroll);
-    const handleMouseEnter = () => {
-        window.addEventListener("wheel", preventWindowScroll, { passive: false });
-        console.log("added");
-    }
-    const handleMouseLeave = () => {
-        window.removeEventListener("wheel", preventWindowScroll);
-        console.log("removed");
-    }
+    // const handleScroll = (event) => {
+    //     if (event.deltaY < 0) {
+    //         HandleArrows("left", link, Length)
+    //     } else if (event.deltaY > 0) {
+    //         HandleArrows("right", link, Length)
+    //     }
+    // }
+    // window.removeEventListener("wheel", preventWindowScroll);
+    // function preventWindowScroll(event) {
+    //     event.preventDefault();
+    // }
+    // window.removeEventListener("wheel", preventWindowScroll);
+    // const handleMouseEnter = () => {
+    //     window.addEventListener("wheel", preventWindowScroll, { passive: false });
+    //     console.log("added");
+    // }
+    // const handleMouseLeave = () => {
+    //     window.removeEventListener("wheel", preventWindowScroll);
+    //     console.log("removed");
+    // }
     return (
         <div className="kit" style={{ backgroundColor: "#0F2133", padding: "20px", margin: "20px 0", borderRadius: "5px" }}>
             <div style={{ display: "flex", justifyContent: "space-between" }} >
@@ -78,8 +77,8 @@ export const MovieKit = ({ moviesData, title, link, apiPath }) => {
                 </div>
             </div>
             <div className='ScrollBox'
-                onWheel={handleScroll}
-                onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}
+                // onWheel={handleScroll}
+                // onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}
                 style={{ overflowX: "hidden" }}>
                 <div id={link} style={{
                     display: "flex", marginTop: "20px", gap: "20px", transform: `translateX(0px)`
